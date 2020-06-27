@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="enter_a_city">Enter A City</string>
+    <string name="max_temperature">Max Temperature</string>
+    <string name="min_temperature">Min Temperature</string>
+    <string name="enter_city">Enter City</string>
+    <string name="find_weather">Find Weather</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string-array name="temperature_selection">
+        <item>F</item>
+        <item>C</item>
+    </string-array>
+    <string name="tempOutput">%1$s %2$s</string>
+    <string name="maxTempOutput">%1$s %2$s</string>
+    <string name="minTempOutput">%1$s %2$s</string>
+    <string name="weatherIcon">weatherIcon</string>
+    <string name="weatherDesc">%1$s (%2$s)</string>
+</resources>
